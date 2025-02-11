@@ -1,5 +1,10 @@
 name: Jekyll site CI
 
+title: [KfmTube App]
+description: [This is the repository of my final Backend project]
+
+theme-name: slate
+
 on:
   push:
     branches: [ "main" ]
