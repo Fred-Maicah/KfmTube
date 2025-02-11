@@ -1,4 +1,4 @@
-# StreamBeat App
+# Kfmsbeat App
 
 ## Description 
 A Group video calling application using the Agora Web SDK with a Django backend.
@@ -9,12 +9,12 @@ The application was designed to facilitate group video calls, leveraging the Ago
 
 #### 1 - Clone repo
 ```
-git clone https://github.com/Ajoe62/Streambeat
+git clone https://github.com/Fred-Maicah/Kfmsbeat
 ```
 
 #### 2 - Install requirements
 ```
-cd Streambeat
+cd Kfmsbeat
 pip install -r requirements.txt
 ```
 
@@ -43,5 +43,3 @@ const APP_ID = 'YOUR APP ID'
 ```
 python manage.py runserver
 ```
-
-
